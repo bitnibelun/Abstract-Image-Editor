@@ -1,6 +1,6 @@
 ## Editor
 
-![editor](https://user-images.githubusercontent.com/86565212/201485684-2932d8ba-4a7b-4951-8fbb-4894dc4a5ee2.jpg)
+![editor](https://user-images.githubusercontent.com/86565212/201485768-70e98846-4187-4bb9-95bd-9e9ef026865f.jpg)
 
 ## Sample
 
