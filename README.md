@@ -1,3 +1,7 @@
+
+![aleja1](https://user-images.githubusercontent.com/86565212/201484006-ab5d1ca0-d196-4a7e-9805-af2b8f2cf447.jpg)
+
+
 ## About
 
 This program is an abstract image editor written in Python using PyQt5.
