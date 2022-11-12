@@ -1,4 +1,5 @@
-""" Copyright 2022 Alvaro Angel
+#--------------------------------------------------------------------------------------
+Copyright (c) 2022 Alvaro Angel
     This program is free software: you can redistribute it and/or modify it
     under the terms of the GNU General Public License as published by 
     the Free Software Foundation, either version 3 of the License, 
@@ -12,12 +13,7 @@
     You should have received a copy of the GNU 
     General Public License along with this program. 
     If not, see <https://www.gnu.org/licenses/>. 
-"""
-""" This Python program is an experimental abstract image editor.
-    It was created to play around with images, and
-    as a base on which more advanced effects can be created.
-    The program is very slow with larger images but can be extended with C or C++.
-"""
+#--------------------------------------------------------------------------------------
 from PyQt5.QtGui import QPixmap
 from PyQt5.QtWidgets import QMainWindow, QApplication, QPushButton, QLabel, QFileDialog, QSlider, QMessageBox
 from PyQt5 import uic
