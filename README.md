@@ -1,6 +1,5 @@
 
-![aleja1](https://user-images.githubusercontent.com/86565212/201484006-ab5d1ca0-d196-4a7e-9805-af2b8f2cf447.jpg)
-
+![sample](https://user-images.githubusercontent.com/86565212/201484188-b0629da3-f7a3-40b3-a6b0-e88479566168.jpg)
 
 ## About
 
