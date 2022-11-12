@@ -25,14 +25,14 @@ as a base on which more advanced effects can be created.
 There are various ways of running the code:
 
 * IDE:
-  1) Use a python IDE such as PyCharm or VS code.
-  2) Using the IDE open the folder containing the project.
-  2) Select and run the abstract_image_editor.py file.
+    1) Use a python IDE such as PyCharm or VS code.
+    2) Using the IDE open the folder containing the project.
+    2) Select and run the abstract_image_editor.py file.
 
 * Command line:
-  1) Navigate to the folder containing the project.
-  2) Run the program with: 
+    1) Navigate to the folder containing the project.
+    2) Run the program with: 
   ~~~~
-                            python abstract_image_editor.py
+        python abstract_image_editor.py
   ~~~~
       
