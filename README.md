@@ -32,8 +32,7 @@ There are various ways of running the code:
 2. Using the IDE open the folder containing the project.
 2. Select and run the abstract_image_editor.py file.
 
-**Windows**
-* Command line:
+* Terminal/Command line:
 1. Navigate to the folder containing the project.
 2. Run the program with: 
   ~~~~
