@@ -28,29 +28,29 @@ as a base on which more advanced effects can be created.
 There are various ways of running the code:
 
 * IDE:
-1. Use a python IDE such as PyCharm or VS code.
-2. Using the IDE open the folder containing the project.
-2. Select and run the abstract_image_editor.py file.
+  1. Use a python IDE such as PyCharm or VS code.
+  2. Using the IDE open the folder containing the project.
+  2. Select and run the abstract_image_editor.py file.
 
 * Terminal/Command line:
-1. Navigate to the folder containing the project.
-2. Run the program with: 
-  ~~~~
-  python abstract_image_editor.py
-  ~~~~
+  1. Navigate to the folder containing the project.
+  2. Run the program with: 
+    ~~~~
+    python abstract_image_editor.py
+    ~~~~
   
  * Create an executable
- 1. Install auto-py-to-exe
- 2. Run auto-py-to-exe with:
- ~~~~
- auto-py-to-exe
- ~~~~
- 3. When the GUI pops up:
-    - Select abstract_image_editor.py for Script Location
-    - Choose the One Directory option for OneFile
-    - Select abstract_image_editor.ui for the Additional Files option
-    - Click on the CONVERT PY. TO EXE. button
-    
-    There should be a new folder in the script location. Inside the folder
-    there should be an application file from which you can run the program.
+   1. Install auto-py-to-exe
+   2. Run auto-py-to-exe with:
+   ~~~~
+   auto-py-to-exe
+   ~~~~
+   3. When the GUI pops up:
+      - Select abstract_image_editor.py for Script Location
+      - Choose the One Directory option for OneFile
+      - Select abstract_image_editor.ui for the Additional Files option
+      - Click on the CONVERT PY. TO EXE. button
+
+      There should be a new folder in the script location. Inside the folder
+      there should be an application file from which you can run the program.
       
