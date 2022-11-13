@@ -46,10 +46,10 @@ There are various ways of running the code:
  auto-py-to-exe
  ~~~~
  3. When the GUI pops up:
-    -Select abstract_image_editor.py for Script Location
-    -Choose the One Directory option for OneFile
-    -Select abstract_image_editor.ui for the Additional Files option
-    -Click on the CONVERT PY. TO EXE. button
+    - Select abstract_image_editor.py for Script Location
+    - Choose the One Directory option for OneFile
+    - Select abstract_image_editor.ui for the Additional Files option
+    - Click on the CONVERT PY. TO EXE. button
     
     There should be a new folder in the script location. Inside the folder
     there should be an application file from which you can run the program.
