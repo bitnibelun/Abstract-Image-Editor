@@ -7,10 +7,9 @@
 ![sample](https://user-images.githubusercontent.com/86565212/201484188-b0629da3-f7a3-40b3-a6b0-e88479566168.jpg)
 
 ## About
-
 This program is an abstract image editor written in Python using PyQt5.
-The program is very slow with larger images but can be extended with C or C++.
-
+This is a first draft, and it's an ongoing project that still needs a lot of work.
+The program is slow as it is right now with larger images but can be more efficient with Cython or using other techniques.
 ## Vision
 
 This program was created for learning, to experiment, play around with images, and
